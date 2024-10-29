@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "cover": "https://i.ibb.co.com/SPnFb4P/1.jpg",
+    "title": "Exploring the Depths of AI",
+    "author_name": "Alice Johnson",
+    "author_img": "https://i.ibb.co.com/PrTJT1t/boy1.png",
+    "posted_date": "Oct 02 (27 days ago)",
+    "reading_time": 5,
+    "hashtags": ["#AI", "#MachineLearning", "#FutureTech"]
+  },
+  {
+    "id": "2",
+    "cover": "https://i.ibb.co.com/CPKN54w/2.png",
+    "title": "The Rise of Renewable Energy",
+    "author_name": "Bob Smith",
+    "author_img": "https://i.ibb.co.com/6Yy7rGL/boy2.jpg",
+    "posted_date": "Oct 16 (13 days ago)",
+    "reading_time": 7,
+    "hashtags": ["#RenewableEnergy", "#Environment", "#Sustainability"]
+  },
+  {
+    "id": "3",
+    "cover": "https://i.ibb.co.com/R3jNcx3/3.png",
+    "title": "Blockchain Beyond Cryptocurrency",
+    "author_name": "Carol White",
+    "author_img": "https://i.ibb.co.com/kQ3ntgt/girl1.jpg",
+    "posted_date": "Oct 21 (8 days ago)",
+    "reading_time": 6,
+    "hashtags": ["#Blockchain", "#Finance", "#Innovation"]
+  },
+  {
+    "id": "4",
+    "cover": "https://i.ibb.co.com/Wvk2trr/4.jpg",
+    "title": "The Future of Space Exploration",
+    "author_name": "David Lee",
+    "author_img": "https://i.ibb.co.com/dg9YJNx/girl2.jpg",
+    "posted_date": "Oct 26 (3 days ago)",
+    "reading_time": 8,
+    "hashtags": ["#Space", "#NASA", "#Exploration"]
+  },
+  {
+    "id": "5",
+    "cover": "https://i.ibb.co.com/CPKN54w/2.png",
+    "title": "Mastering Web Development in 2024",
+    "author_name": "Emily Clark",
+    "author_img": "https://i.ibb.co.com/kQ3ntgt/girl1.jpg",
+    "posted_date": "Oct 28 (1 day ago)",
+    "reading_time": 10,
+    "hashtags": ["#WebDevelopment", "#Coding", "#JavaScript"]
+  }
+]
